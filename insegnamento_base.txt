@@ -1,0 +1,31 @@
+corso base (2 gg):
+scrivi notebook su:
+
+- data IO
+- plot base
+- numpy, pandas, scikit, plot images
+
+
+
+
+parte base (2 giorni): IDE + installazione
+                               spiegazione del linguaggio
+                               operatori 
+                               oggetti (liste, array, dizionari, etc)
+                               data I/O
+                               plot base
+                               funzioni
+                               numpy, pandas, scikit, plot images (Py)
+                               datatable, dplyr, ggplot (R)
+
+parte machine learning (3 giorni): per questa parte pensavamo di dividere
+                               parte teorica la mattina e di programmazione il pomeriggio.
+                               supervised (OLS, decision tree, random forest, logit, poisson) 
+                               unsupervised (Kmeans, gerarchico, KNN, etc)
+                               classification & regression
+                               per la parte di programmazione si usa H2O
+                               tuning dei modelli
+                               utilizzo di dati classici per vedere qualche case study (e.g. titanic, fiori, etc...)
+
+ultimo giorno: mattina esercitazione "complicata", e confronto tra di loro
+                     pomeriggio ultime cose su fancy plotting (seaborn, plotly, widgets, etc)
